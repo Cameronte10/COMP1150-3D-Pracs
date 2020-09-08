@@ -14,7 +14,7 @@ OcclusionCullingSettings:
 RenderSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 9
-  m_Fog: 0
+  m_Fog: 1
   m_FogColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   m_FogMode: 3
   m_FogDensity: 0.01
@@ -428,7 +428,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1395472829}
   m_LocalRotation: {x: 0.015746739, y: -0.9463469, z: -0.31968987, w: -0.04447491}
-  m_LocalPosition: {x: 26.306213, y: -26.503487, z: 45.6918}
+  m_LocalPosition: {x: 26.987942, y: -20.924545, z: 38.409534}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
